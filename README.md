@@ -1,2 +1,3 @@
 # ExamenFinal
-Exámen Final de Python. 
+Ejercicios del Exámen Final.
+Ejercicios para subsanar la práctica 03. 
